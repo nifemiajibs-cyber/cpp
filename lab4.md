@@ -1,3 +1,4 @@
+```cpp
    #include "options.h"
 #include <stdexcept>
 
@@ -152,3 +153,5 @@ std::ostream& operator<<(std::ostream& out, Options const& options)
 }
     
 } // namespace repeat
+
+```
